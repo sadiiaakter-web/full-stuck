@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background: rgb(238, 186, 215);
+    color: rgb(17, 5, 5);
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 85%;
+    margin: 0 auto;
+    padding: 20px 20px;
+    font-family: "Redaction 10", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+:root  {
+
+}
+
+.redaction-10-regular {
+  font-family: "Redaction 10", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.redaction-10-bold {
+  font-family: "Redaction 10", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.redaction-10-regular-italic {
+  font-family: "Redaction 10", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+.box {
+    box-sizing: border-box;
+    width: 210px;
+    padding: 22px;
+    border: 8px solid white ;
+    margin: 20px;
+}
+
